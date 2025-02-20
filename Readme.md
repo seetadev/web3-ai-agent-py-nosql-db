@@ -1,4 +1,4 @@
-# AI Agent with Python backend and Nosql database for Knowledge Base
+# AI Agent with Python backend & Storacha, Nosql database for Knowledge Base 
 
 ## Prerequisites
 Before running this Web3 Flask application, ensure you have the following installed on your system:
